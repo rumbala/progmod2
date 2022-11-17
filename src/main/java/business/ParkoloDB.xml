@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<db>
+  <parkolo id="1">
+        <name>Pécsi Mélygarázs</name>
+      
+        <maxParkingSpace>100</maxParkingSpace>
+        <usedParkingSpace>45</usedParkingSpace>
+      
+      
+        <cc>HU</cc>
+        <postCode>7621</postCode>
+        <city>Pécs</city>
+        <street>Király utca</street>
+        <buildingNumber>14</buildingNumber>
+      
+  </parkolo>
+  
+  <parkolo id="3">
+        <name>Nagyharsányi Ferencesek parkolója</name>
+      
+        <maxParkingSpace>30</maxParkingSpace>
+        <usedParkingSpace>10</usedParkingSpace>
+      
+     
+        <cc>HU</cc>
+        <postCode>7621</postCode>
+        <city>Nagyharsány</city>
+        <street>Beregszász utca</street>
+        <buildingNumber>42</buildingNumber>
+     
+  </parkolo>
+</db>
