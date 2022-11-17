@@ -33,7 +33,6 @@ public class ParkoloService {
     
     private JSONArray getParkolokFromXml(){
      
-        //JSONArray parkolok = new JSONArray();
         parkolok = new JSONArray();
         try{
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
